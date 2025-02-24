@@ -1,3 +1,6 @@
+> [!CAUTION]
+> This project has been archived and is no longer being maintained. While as far as I'm aware, this project *should* still work, I cannot guarantee that it will work in the future. You can read my [blog post](https://ltwilson.tv/blog/2024/elgato-wave-link-project) for more information on how I got this project working in the first place, it may help in the future.
+
 # 🔉 Wave Link Key Wrapper
 
 This is a Python script that allows you to turn keys on your keyboard into volume controls for Elgato's Wave Link software, and displays a simple popup of the current volume level.
